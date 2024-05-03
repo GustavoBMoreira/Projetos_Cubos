@@ -46,7 +46,7 @@ A API inclui intermediários que garantem a segurança e a integridade dos dados
 
 Para utilizar a API, basta seguir a documentação fornecida nos endpoints disponíveis. Durante o desenvolvimento, utilize o Insomnia ou ferramentas similares para testar e debugar as requisições. O banco de dados é resetado a cada execução do servidor, garantindo um estado limpo para testes.
 
-![image]([https://github.com/GustavoBMoreira/Projetos_Cubos/assets/137120514/0e6d6f1a-342b-4046-b6e5-3379cd79eec0](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkaXBra29ha2o2c3pubW11cGYxejJiaDdyYTU3em42eGkwYzhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E2utlDxcA4J4CNC4r7/giphy.gif))
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVkaXBra29ha2o2c3pubW11cGYxejJiaDdyYTU3em42eGkwYzhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E2utlDxcA4J4CNC4r7/giphy.gif)
 
 
 ## Contribuição
